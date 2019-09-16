@@ -2,6 +2,9 @@
 # change .gitignore
 .gitignore.bak
 
+# pycharm for conversion
+conversion/.idea/
+
 # pycharm for spider
 httpspider/.idea/
 
