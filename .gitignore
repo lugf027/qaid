@@ -2,6 +2,9 @@
 # change .gitignore
 .gitignore.bak
 
+# pycharm for analysis
+analysis/.idea/
+
 # pycharm for conversion
 conversion/.idea/
 
